@@ -9,3 +9,4 @@ gem 'rspec'
 gem 'rubocop'
 gem 'simplecov'
 gem 'simplecov-console'
+gem 'rubocop', require: false
