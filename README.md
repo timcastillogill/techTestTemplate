@@ -10,7 +10,11 @@ I want to
 
 ## Gems Used
 
-gem 'rspec'
+- gem 'rspec'
+- gem 'rubocop'
+- gem 'simplecov'
+- gem 'simplecov-console'
+- gem 'rubocop'
 
 ## Installation
 
