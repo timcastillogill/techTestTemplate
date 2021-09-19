@@ -8,19 +8,11 @@ As a
 So that I can
 I want to
 
-## Gems Used
-
-- gem 'rspec'
-- gem 'rubocop'
-- gem 'simplecov'
-- gem 'simplecov-console'
-- gem 'rubocop'
-
 ## Installation
 
 To clone the repo
 
-1. git clone
+1. Clone the repo
 2. cd tech-test
 3. bundle
 
