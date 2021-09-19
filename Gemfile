@@ -9,3 +9,4 @@ gem 'rspec'
 gem 'rubocop', require: false
 gem 'simplecov'
 gem 'simplecov-console'
+gem 'pre-commit'
